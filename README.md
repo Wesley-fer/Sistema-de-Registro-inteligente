@@ -55,7 +55,7 @@ Frontend (opcional): HTML/CSS/JS ou framework como React
 
 Hardware: Câmera HD + Catraca automatizada com interface GPIO ou relé
 
- Módulos do Sistema
+ Módulos do Sistema: 
 Módulo de Cadastro
 
 Módulo de Reconhecimento
